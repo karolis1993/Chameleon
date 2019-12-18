@@ -159,8 +159,6 @@ All methods, properties, and types available in Chameleon are documented below.
 
 ### Installation
 
-###### Note: Swift 3 version maintained in a separate branch until it's release.
-
 #### CocoaPods Installation
 Chameleon is now available on [CocoaPods](http://cocoapods.org). Simply add the following to your project Podfile, and you'll be good to go.
 
